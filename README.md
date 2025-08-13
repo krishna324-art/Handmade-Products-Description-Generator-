@@ -32,6 +32,8 @@ Repetition penalty:1.2
 No repeat n-gram size: 3
 
 Temperature varied for generation tests
+
+
 Max length: 512
 
 Hardware: Google Colab (T4 GPU)
@@ -49,6 +51,7 @@ Features: 100% natural wool, Traditional loom weaving, Fringed edges, Soft and w
 
 **Generated Description:**  
 This is a perfect gift to your favorite holiday or special occasion. The blanket features the traditional loom weave pattern and has been handcrafted with high quality materials. The fabric is soft and cozy so you can enjoy warmth on cold nights.
+
 
 
 
