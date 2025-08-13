@@ -19,7 +19,7 @@ Unwanted metadata such as average rating and rating number
 Training Setup
 Model: GPT-2 (base) fine-tuned with LoRA
 
-Epochs: 2
+Epochs: 1
 
 Batching: Gradient accumulation for efficiency
 
@@ -49,6 +49,7 @@ Features: 100% natural wool, Traditional loom weaving, Fringed edges, Soft and w
 
 **Generated Description:**  
 This is a perfect gift to your favorite holiday or special occasion. The blanket features the traditional loom weave pattern and has been handcrafted with high quality materials. The fabric is soft and cozy so you can enjoy warmth on cold nights.
+
 
 
 
