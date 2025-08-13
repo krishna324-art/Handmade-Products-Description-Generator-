@@ -1,0 +1,22 @@
+--- Prompt ---
+Title: Handmade Leather Dog Collar with Brass Buckle
+Features: Full-grain leather, Solid brass hardware, Adjustable fit, Suitable for medium and large dogs
+
+Description:  Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+[Temperature 1.0] This leather collar is handcrafted using natural leather. A large, full-grain leather is used and made to conform to your dog's style. Handcrafted using a quality stainless steel buckle and an adjustable fit. Leather is made from solid brass, brass is the best material for creating a sturdy and stable collar. Your dog’s style and style of dog can be adjusted according to your dog’s temperament. You can wear it with one of two different collar straps: buckles that will fit to the top or to the back of your dog’s body. There is a set of buckle for each of the three straps. The buckle of choice is buckles on the chest strap. We recommend that all dogs of varying body sizes
+
+--- Prompt ---
+Title: Handwoven Wool Throw Blanket Features: 100% natural wool, Traditional loom weaving, Fringed edges, Soft and warm for winter
+Description:
+
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+[Temperature 0.3] This is a perfect gift to your favorite holiday or special occasion. The blanket features the traditional Loom Wool weave pattern and has been handcrafted in our studio with high quality materials. The fabric is soft and cozy so you can wear it anywhere from day to night. The woven patterns are made of pure cotton that will last through years of use. The blankets have an elegant design reminiscent of classic lace sweaters such as those worn by Lady Gaga and her husband.
+
+--- Prompt ---
+Title: Rustic Metal Wall Clock Features: Aged bronze finish, Silent sweep movement, Large Roman numerals, Easy wall mounting 
+Description:
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+[Temperature 0.3] This rustic metal clock features a large silver plated brass ring. The watch is made of polished stainless steel with an easy to clean surface and the dials are hand-finished in black matte gold or rosewood finishes.
+
+
+
