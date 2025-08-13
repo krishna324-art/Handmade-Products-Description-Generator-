@@ -43,6 +43,8 @@ Training Progress
 Epoch : 1
 Training Loss: 1.112 
 Validation Loss: 1.047
+
+
 Example Output
 
 **Prompt:**  
@@ -51,6 +53,7 @@ Features: 100% natural wool, Traditional loom weaving, Fringed edges, Soft and w
 
 **Generated Description:**  
 This is a perfect gift to your favorite holiday or special occasion. The blanket features the traditional loom weave pattern and has been handcrafted with high quality materials. The fabric is soft and cozy so you can enjoy warmth on cold nights.
+
 
 
 
