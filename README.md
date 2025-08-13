@@ -1,4 +1,4 @@
-oRA Fine-Tuned Product Description Generator
+LoRA Fine-Tuned Product Description Generator
 This project fine-tunes a GPT model using LoRA (Low-Rank Adaptation) to generate high-quality product descriptions based on a product title and features.
 
 Dataset
@@ -49,6 +49,7 @@ Features: 100% natural wool, Traditional loom weaving, Fringed edges, Soft and w
 
 **Generated Description:**  
 This is a perfect gift to your favorite holiday or special occasion. The blanket features the traditional loom weave pattern and has been handcrafted with high quality materials. The fabric is soft and cozy so you can enjoy warmth on cold nights.
+
 
 
 
